@@ -21,6 +21,6 @@ paypal.user-agreement918.com
 cooper.logs.roku.com
 omegle.com
 myqnapcloud.com
-*.myqnapcloud.com
-*.zip
-*.mov
+(\.|^)myqnapcloud.com$
+(\.|^)zip$
+(\.|^)mov$
