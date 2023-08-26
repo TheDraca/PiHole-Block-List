@@ -22,6 +22,8 @@ cooper.logs.roku.com
 omegle.com
 myqnapcloud.com
 (\.|^)anydesk.com
+(\.|^)teamviewer.com  
+(\.|^)teamviewer.us
 (\.|^)myqnapcloud.com$
 (\.|^)zip$
 (\.|^)mov$
