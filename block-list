@@ -21,11 +21,9 @@ paypal.user-agreement918.com
 cooper.logs.roku.com
 omegle.com
 myqnapcloud.com
-(\.|^)anydesk.com
-(\.|^)teamviewer.com  
-(\.|^)teamviewer.us
-(\.|^)myqnapcloud.com$
-(\.|^)zip$
-(\.|^)mov$
-mb.download.gigabyte.com
-software-nas
+||anydesk.com^
+||teamviewer.com^
+||teamviewer.us^
+||myqnapcloud.com^
+||.zip^
+||.mov^
