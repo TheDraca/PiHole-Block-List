@@ -25,5 +25,5 @@ myqnapcloud.com
 ||teamviewer.com^
 ||teamviewer.us^
 ||myqnapcloud.com^
-||.zip^
-||.mov^
+||*.zip^
+||*.mov^
